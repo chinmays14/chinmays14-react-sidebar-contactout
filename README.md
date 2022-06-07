@@ -1,4 +1,4 @@
-# Your challenge/task
+# Challenge/task completed
 
 - [x] Build the Sidebar nav and Account Settings popover with the menu
 - [x] Clicking `Lists` should update the URL to `/lists` and just show a blank page with the text "this is the lists page".
